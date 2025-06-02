@@ -1,10 +1,10 @@
-### Introduction
+## Introduction
 
 For our Math for Machine Learning Project, myself, Qianyu Chen, and Christian Kolker analyzed and fine-tuned three machine learning models to predict customer churn for an anonymous telecommunications company.
 
 After performing exploratory data analysis and visualizing data trends, we used fit logistic regression and XGBoost models to our data. We discovered that:
 
-##### What is churn?
+### What is churn?
 
 As a company, it is important to maintain a consistent customer base for steady business. 
 Businesses provide services or products for customers so that they establish ongoing relationships to the consumer. 
@@ -13,7 +13,7 @@ Retention: Rate at which customers continue to use a product or service.
 Churn: Rate at which customers stop using a product or service.
 The key question to ask is: Why are we losing customers
 
-##### Our conclusions
+### Our conclusions
 
 Month-to-Month payment plans seem to enable customer churn
 
@@ -25,7 +25,7 @@ A lack of tech support and online security are ranked high for feature importanc
 
 A solution that we proposed was: Upselling these features could help retain customers
 
-##### Potential Issues and Improvements
+### Potential Issues and Improvements
 
 Imbalanced Data Solutions
 Get more data: quantity and quality
